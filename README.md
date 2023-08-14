@@ -1,6 +1,5 @@
 👋 Hello! Welcome to my Github Profile!!! 🎉
 <br>
-<br>
 <p>👩‍💻 My name is Daniel Neitzel Vieira and my nickname is DanielvNeitzel!</p>
 <p>📚 I graduated in Internet Systems at the National Commercial Learning Service (SENAC).</p>
 <p>👩‍💻 I am a Developer Analyst in the area of ​​opening a digital account as a Frontend Developer at Banco Santander.</p>
