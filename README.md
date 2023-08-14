@@ -1,12 +1,7 @@
 👋 Hello! Welcome to my Github Profile!!! 🎉
 <br>
 <br>
-👩‍💻 My name is Daniel Neitzel Vieira and my nickname is DanielvNeitzel!
-<br>
-<br>
-<img src="coding.gif">
-<br>
-<br>
+<p>👩‍💻 My name is Daniel Neitzel Vieira and my nickname is DanielvNeitzel!</p>
 <p>📚 I graduated in Internet Systems at the National Commercial Learning Service (SENAC).</p>
 <p>👩‍💻 I am a Developer Analyst in the area of ​​opening a digital account as a Frontend Developer at Banco Santander.</p>
 <p>🚀 I am in constant learning. Interested in new technologies and market news.</p>
@@ -15,7 +10,6 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -30,9 +24,9 @@
 </p>
 <hr>
 <div>
-	<p align="center">Contacts:</p>
-	<p align="center">
-		<a href="https://www.instagram.com/danielvneitzel/" target="_blank">
+	<p align="center">Contacts:</p> 
+	<a href="https://www.instagram.com/danielvneitzel/" target="_blank">
+		<p align="center">
 			<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 		</a>
 		<a href = "mailto:daniel_neitzel@hotmail.com">
