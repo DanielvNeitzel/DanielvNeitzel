@@ -31,8 +31,8 @@
 <hr>
 <div>
 	<p align="center">Contacts:</p> 
-	<a href="https://www.instagram.com/danielvneitzel/" target="_blank">
-		<p align="center">
+	<p align="center">
+		<a href="https://www.instagram.com/danielvneitzel/" target="_blank">
 			<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 		</a>
 		<a href = "mailto:daniel_neitzel@hotmail.com">
