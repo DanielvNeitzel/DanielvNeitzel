@@ -19,7 +19,7 @@
 </p>
 <br>
 <p align="center">
-	🔗 <a href="https://www.danielneitzel.com.br">Meu Portfólio Pessoal</a>
+	🔗 <a href="https://www.danielneitzel.com.br">Meu Portfólio</a>
 </p>
 <hr>
 <div>
