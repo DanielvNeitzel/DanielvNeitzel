@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
 	<h2>👋 Hello! Welcome to my Github Profile!!! 🎉</h2>
 	<p>👩‍💻 My name is Daniel Neitzel Vieira and my nickname is DanielvNeitzel!</p>
 	<p>📚 I graduated in Internet Systems at the National Commercial Learning Service (SENAC).</p>
