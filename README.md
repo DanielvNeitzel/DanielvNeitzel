@@ -32,7 +32,7 @@
 	</p>
 	<br>
 	<p align="center">
-		🔗 <a href="https://www.danielneitzel.com.br">Meu Portfólio Pessoal</a>
+		🔗 <a href="http://www.danielneitzel.com.br">Meu Portfólio Pessoal</a>
 	</p>
 	<hr>
 	<div>
